@@ -6,5 +6,3 @@
 + reuters_text.ipynb        - Reuters text classification
 + Keras_Generator.ipynb	    - Keras Generator Example
 
-## Slides ##
-http://htmlpreview.github.com/?https://github.com/edbullen/keras/blob/master/slides/slides.html
