@@ -6,4 +6,3 @@
 + reuters_text.ipynb        - Reuters text classification
 + Keras_Generator.ipynb	    - Keras Generator Example
 
-## Test ##
