@@ -1,0 +1,46 @@
+.left-column30 {
+      width: 30%;
+      float: left;
+
+}
+.left-column40 {
+      width: 40%;
+      float: left;
+
+}
+.left-column50 {
+      width: 50%;
+      float: left;
+}
+.left-column60 {
+      width: 58%;
+      float: left;
+}
+
+.left-column70 {
+      width: 68%;
+      float: left;
+}
+
+.right-column30 {
+      width: 30%;
+      float: right;
+      }
+.right-column40 {
+      width: 40%;
+      float: right;
+      }
+
+.right-column50 {
+      width: 50%;
+      float: right;
+      }
+.right-column60 {
+      width: 58%;
+      float: right;
+      }
+      
+.right-column70 {
+      width: 68%;
+      float: right;
+      }
